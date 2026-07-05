@@ -1,0 +1,184 @@
+/*
+ * FreedomPort 品牌主题（与主站一致）
+ * Transformative Teal #23545b（主色） / Cloud Dancer #f0eee9（浅色底）
+ * 设计原则：克制、专业，无 emoji，层级靠字重与留白表达。
+ */
+
+:root {
+  --vp-c-brand-1: #1c6e73;
+  --vp-c-brand-2: #23545b;
+  --vp-c-brand-3: #23545b;
+  --vp-c-brand-soft: rgba(35, 84, 91, 0.12);
+
+  --vp-c-bg: #ffffff;
+  --vp-c-bg-alt: #f5f3ee;
+  --vp-c-bg-soft: #f6f4ef;
+
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(120deg, #23545b 30%, #1d9c8c);
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, rgba(35, 84, 91, 0.36) 40%, rgba(35, 183, 156, 0.36) 60%);
+  --vp-home-hero-image-filter: blur(52px);
+
+  --vp-button-brand-bg: #23545b;
+  --vp-button-brand-hover-bg: #2d6a72;
+  --vp-button-brand-active-bg: #193f45;
+  --vp-button-brand-border: transparent;
+}
+
+.dark {
+  --vp-c-brand-1: #5cc0b4;
+  --vp-c-brand-2: #7fd0c4;
+  --vp-c-brand-3: #23b79c;
+  --vp-c-brand-soft: rgba(45, 220, 184, 0.14);
+
+  --vp-c-bg: #0e0f0f;
+  --vp-c-bg-alt: #161717;
+  --vp-c-bg-soft: #1b1c1c;
+
+  --vp-button-brand-bg: #1f7f74;
+  --vp-button-brand-hover-bg: #23948a;
+  --vp-button-brand-active-bg: #17655c;
+}
+
+/* ---------- 首页 ---------- */
+
+.VPHero .name {
+  font-weight: 800;
+  letter-spacing: -0.01em;
+}
+
+.VPHero .text {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+/* feature 卡：白底、细描边、悬停轻提升；图标容器统一白底圆角 */
+.VPFeature {
+  border: 1px solid var(--vp-c-divider);
+  background-color: var(--vp-c-bg);
+  transition:
+    transform 0.22s ease,
+    border-color 0.22s ease,
+    box-shadow 0.22s ease;
+}
+
+.VPFeature:hover {
+  transform: translateY(-2px);
+  border-color: var(--vp-c-brand-1);
+  box-shadow: 0 14px 36px rgba(24, 52, 58, 0.1);
+}
+
+.VPFeature .icon {
+  width: 52px;
+  height: 52px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  background-color: var(--vp-c-bg);
+}
+
+.VPFeature .icon img,
+.VPFeature .icon .VPImage {
+  width: 26px;
+  height: 26px;
+  object-fit: contain;
+}
+
+/* hero 品牌图形尺寸 */
+.VPHero .image-container .VPImage {
+  width: 152px;
+  height: 152px;
+}
+
+.dark .VPFeature {
+  background-color: var(--vp-c-bg-soft);
+}
+
+.dark .VPFeature .icon {
+  background-color: rgba(255, 255, 255, 0.06);
+}
+
+/* ---------- 正文排版 ---------- */
+
+.vp-doc h1 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.vp-doc h2 {
+  font-weight: 650;
+  letter-spacing: -0.01em;
+}
+
+.vp-doc {
+  line-height: 1.75;
+}
+
+/* 教程开头的引言行：做成克制的副标题而非重引用块 */
+.vp-doc blockquote {
+  border-left: 3px solid var(--vp-c-brand-1);
+  background: transparent;
+  padding: 2px 0 2px 16px;
+}
+
+.vp-doc blockquote p {
+  color: var(--vp-c-text-2);
+  font-size: 15px;
+}
+
+/* 表格：细线、浅表头、悬停行 */
+.vp-doc table {
+  border-collapse: collapse;
+  width: 100%;
+  display: table;
+  overflow-x: auto;
+}
+
+.vp-doc th {
+  background-color: var(--vp-c-bg-soft);
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+}
+
+.vp-doc th,
+.vp-doc td {
+  border: 1px solid var(--vp-c-divider);
+  padding: 9px 14px;
+}
+
+.vp-doc tr:hover td {
+  background-color: var(--vp-c-bg-soft);
+}
+
+/* 提示容器：左色条 + 柔和底 */
+.vp-doc .custom-block {
+  border-radius: 10px;
+  border: 1px solid var(--vp-c-divider);
+  border-left-width: 3px;
+}
+
+.vp-doc .custom-block.info {
+  border-left-color: var(--vp-c-brand-1);
+}
+
+.vp-doc .custom-block.tip {
+  border-left-color: #1d9c8c;
+}
+
+.vp-doc .custom-block.warning {
+  border-left-color: #c99117;
+}
+
+.vp-doc .custom-block.danger {
+  border-left-color: #c2453f;
+}
+
+/* 教程截图：圆角细描边，避免白底截图糊在页面上 */
+.vp-doc img {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+}
+
+/* 页面收尾的"最后更新"引言弱化 */
+.vp-doc hr {
+  margin: 32px 0 20px;
+}

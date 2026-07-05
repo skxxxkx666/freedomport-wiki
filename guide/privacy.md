@@ -1,6 +1,5 @@
 ---
 description: DNS 泄露、WebRTC、浏览器指纹——代理连接之后仍需要注意的隐私事项。
-icon: shield-halved
 ---
 
 # 代理后的隐私保护
@@ -41,6 +40,6 @@ icon: shield-halved
 * 敏感账号开启两步验证，与代理无关但同样重要
 * 客户端保持更新，旧版本可能存在已修复的安全问题
 
-{% hint style="info" %}
+::: info
 本站全中转节点 + 隧道加密，不记录用户访问内容。隐私政策全文见主站[隐私政策](https://freedomport.cc/#/privacy-policy)。
-{% endhint %}
+:::

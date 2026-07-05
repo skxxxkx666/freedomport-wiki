@@ -25,6 +25,6 @@
 
 满足条件后，[提交工单](https://freedomport.cc/#/ticket)说明订单号和退款原因即可申请，客服核对后原路退回。
 
-{% hint style="info" %}
+::: info
 建议下单前先阅读[快速开始](../guide/getting-started.md)确认你的设备受支持；有疑问可先通过 [Telegram](../support.md) 咨询再购买。
-{% endhint %}
+:::

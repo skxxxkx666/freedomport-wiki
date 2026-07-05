@@ -1,6 +1,5 @@
 ---
 description: 官方入口与本手册涉及的开源项目。
-icon: link
 ---
 
 # 相关链接
@@ -27,6 +26,6 @@ icon: link
 | v2rayNG | Android | [GitHub](https://github.com/2dust/v2rayNG) |
 | OpenClash | OpenWrt | [GitHub](https://github.com/vernesong/OpenClash) |
 
-{% hint style="warning" %}
+::: warning
 各项目与本站无隶属关系。请从各项目官方渠道下载，谨防仿冒。
-{% endhint %}
+:::

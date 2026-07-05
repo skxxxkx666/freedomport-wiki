@@ -6,7 +6,7 @@
 
 处理购买、订单、退款、账号类问题的正式渠道，客服回复会保留在工单会话中：
 
-👉 [提交工单](https://freedomport.cc/#/ticket)
+ [提交工单](https://freedomport.cc/#/ticket)
 
 提交时请说明：**设备系统 + 客户端名称 + 所选节点 + 具体现象**（最好附截图），能显著加快处理速度。
 
@@ -17,9 +17,9 @@
 | 用户交流群 | 日常交流、公告互通 | [t.me/FreedomPort1](https://t.me/FreedomPort1) |
 | 技术支持 Bot | 快速咨询与反馈 | [@FreedomPortSupportBot](https://t.me/FreedomPortSupportBot) |
 
-{% hint style="warning" %}
+::: warning
 任何渠道的客服都**不会**向你索要密码。请勿在群里公开订阅链接和订单号。
-{% endhint %}
+:::
 
 ## 服务时间
 

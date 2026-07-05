@@ -4,7 +4,7 @@ Android 平台推荐使用以下客户端，二选一即可：
 
 | 客户端 | 特点 | 适合人群 |
 | --- | --- | --- |
-| [Clash Meta for Android](clash-meta.md) ⭐ 推荐 | Clash 内核、规则分流、界面清晰 | 绝大多数用户 |
+| [Clash Meta for Android](clash-meta.md) 推荐 | Clash 内核、规则分流、界面清晰 | 绝大多数用户 |
 | [v2rayNG](v2rayng.md) | 轻量、协议支持广 | 偏好简洁工具的用户 |
 
 华为 / 小米 / OPPO 等国产系统请在安装时允许"未知来源应用"，并在电池设置中允许客户端后台运行，否则锁屏后可能断连。

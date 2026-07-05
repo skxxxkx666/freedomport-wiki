@@ -6,7 +6,6 @@ export default defineConfig({
   description: '自由港机场（FreedomPort）官方使用手册：客户端下载安装、订阅导入、常见问题排查与服务政策。',
   lastUpdated: true,
   cleanUrls: true,
-  ignoreDeadLinks: true,
   head: [
     ['link', { rel: 'icon', href: '/favicon.svg', type: 'image/svg+xml' }],
     ['meta', { name: 'theme-color', content: '#23545b' }],

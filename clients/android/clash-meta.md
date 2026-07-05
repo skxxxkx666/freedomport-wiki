@@ -17,10 +17,10 @@
 
 | 协议 | 支持状态 | 说明 |
 |------|----------|------|
-| VMess / VLESS | | 常用主流协议 |
-| Trojan | | TLS 伪装常见方案 |
-| Shadowsocks | | 兼容老方案 |
-| Hysteria / WireGuard | | 视订阅而定 |
+| VMess / VLESS | 支持 | 常用主流协议 |
+| Trojan | 支持 | TLS 伪装常见方案 |
+| Shadowsocks | 支持 | 兼容老方案 |
+| Hysteria / WireGuard | 支持 | 视订阅而定 |
 
 ## 系统要求
 
@@ -33,7 +33,7 @@
 ### 官方下载
 
 - Android universal（直链）：https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.24/cmfa-2.11.24-meta-universal-release.apk
-- Android universal（ 镜像加速）：https://gh.xxooo.cf/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.24/cmfa-2.11.24-meta-universal-release.apk
+- Android universal（镜像加速）：https://gh.xxooo.cf/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.24/cmfa-2.11.24-meta-universal-release.apk
 - 当前参考版本：`v2.11.24`
 
 ### 安装步骤

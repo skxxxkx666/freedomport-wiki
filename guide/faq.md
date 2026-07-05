@@ -53,7 +53,7 @@
 
 ### 我该用哪个客户端？
 
-看[快速开始](getting-started.md#第三步导入客户端)的推荐表。简单说：桌面端用 **Clash Verge Rev**，iOS 用 **Clash Mi**（免费），Android 用 **Clash Meta**。全部下载入口见[客户端下载](../download.md)。
+看[快速开始](getting-started.md#第三步-导入客户端)的推荐表。简单说：桌面端用 **Clash Verge Rev**，iOS 用 **Clash Mi**（免费），Android 用 **Clash Meta**。全部下载入口见[客户端下载](../download.md)。
 
 ### iOS 应用为什么国区下载不了？
 

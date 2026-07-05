@@ -45,11 +45,11 @@
 
 | 路由器类型 | 推荐方案 | 难度等级 | 特点 |
 |-----------|----------|----------|------|
-| OpenWrt | OpenClash | | 功能最全 |
-| Koolshare | KoolClash | | 易于配置 |
-| 华硕梅林 | Clash-Merlin | | 稳定可靠 |
-| 其他系统 | ShellClash | | 通用性强 |
-| 企业环境 | Surge | | 专业级别 |
+| OpenWrt | OpenClash | 进阶 | 功能最全 |
+| Koolshare | KoolClash | 简单 | 易于配置 |
+| 华硕梅林 | Clash-Merlin | 简单 | 稳定可靠 |
+| 其他系统 | ShellClash | 进阶 | 通用性强 |
+| 企业环境 | Surge | 高级 | 专业级别 |
 
 ---
 

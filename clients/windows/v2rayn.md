@@ -6,13 +6,13 @@
 
 ## 协议支持
 
-| 协议类型 | 支持状态 | 稳定性 | 推荐度 |
-|---------|---------|--------|--------|
-| **Shadowsocks (SS)** | 完全支持 | | |
-| **Trojan** | 完全支持 | | |
-| **VMess** | 完全支持 | | |
-| **VLESS** | 完全支持 | | |
-| **SOCKS5** | 完全支持 | | |
+| 协议类型 | 支持状态 |
+|---------|---------|
+| **Shadowsocks (SS)** | 完全支持 |
+| **Trojan** | 完全支持 |
+| **VMess** | 完全支持 |
+| **VLESS** | 完全支持 |
+| **SOCKS5** | 完全支持 |
 
 ## 系统要求
 
@@ -29,8 +29,8 @@
 
 - Windows x64（直链）：https://github.com/2dust/v2rayN/releases/download/7.19.5/v2rayN-windows-64.zip
 - Windows ARM64（直链）：https://github.com/2dust/v2rayN/releases/download/7.19.5/v2rayN-windows-arm64.zip
-- Windows x64（ 镜像加速）：https://gh.xxooo.cf/https://github.com/2dust/v2rayN/releases/download/7.19.5/v2rayN-windows-64.zip
-- Windows ARM64（ 镜像加速）：https://gh.xxooo.cf/https://github.com/2dust/v2rayN/releases/download/7.19.5/v2rayN-windows-arm64.zip
+- Windows x64（镜像加速）：https://gh.xxooo.cf/https://github.com/2dust/v2rayN/releases/download/7.19.5/v2rayN-windows-64.zip
+- Windows ARM64（镜像加速）：https://gh.xxooo.cf/https://github.com/2dust/v2rayN/releases/download/7.19.5/v2rayN-windows-arm64.zip
 - 当前参考版本：`7.19.5`
 
 ### 安装说明

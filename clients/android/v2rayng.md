@@ -10,11 +10,11 @@
 
 | 协议 | 状态 | 说明 |
 |------|------|------|
-| VMess | | 常见 V2Ray 协议 |
-| VLESS | | 新版主流协议 |
-| Trojan | | 伪装流量方案 |
-| Shadowsocks | | 兼容旧节点 |
-| SOCKS | | 通用代理支持 |
+| VMess | 支持 | 常见 V2Ray 协议 |
+| VLESS | 支持 | 新版主流协议 |
+| Trojan | 支持 | 伪装流量方案 |
+| Shadowsocks | 支持 | 兼容旧节点 |
+| SOCKS | 支持 | 通用代理支持 |
 
 ### 系统要求
 
@@ -27,7 +27,7 @@
 ### 官方下载
 
 - Android universal（直链）：https://github.com/2dust/v2rayNG/releases/download/2.0.15/v2rayNG_2.0.15_universal.apk
-- Android universal（ 镜像加速）：https://gh.xxooo.cf/https://github.com/2dust/v2rayNG/releases/download/2.0.15/v2rayNG_2.0.15_universal.apk
+- Android universal（镜像加速）：https://gh.xxooo.cf/https://github.com/2dust/v2rayNG/releases/download/2.0.15/v2rayNG_2.0.15_universal.apk
 - 当前参考版本：`2.0.15`
 
 ### 安装步骤

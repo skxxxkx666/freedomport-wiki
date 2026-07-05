@@ -34,7 +34,22 @@ git push -u origin main
    - **代理状态先选 DNS only（灰云）**，等 GitBook 侧证书签发生效后再考虑开启橙云
 4. 等待验证通过（通常几分钟），访问 https://wiki.freedomport.cc 确认
 
-## 四、日常维护
+## 四、美观与质感配置（GitBook 站点设置 → Customization）
+
+内容侧的质感（导航卡片、标签页、提示块、页面 icon/描述）已经写在 Markdown 里，同步后自动生效。以下站点级外观在 GitBook 界面里配置一次即可：
+
+| 配置项 | 建议值 |
+| --- | --- |
+| **Primary color（主色）** | `#23545b`（Transformative Teal，与主站一致；深色模式可另设 `#5CC0B4`） |
+| **Logo** | 上传主站 Logo（`frontend-vue/public/favicon.svg` 或品牌图），亮/暗各传一份 |
+| **Site icon（favicon）** | 同主站 favicon |
+| **Theme** | Tint 模式（参考站同款），圆角 Rounded |
+| **Fonts** | Inter（参考站同款）或默认 |
+| **Header** | 添加两个链接按钮：`返回主站 → https://freedomport.cc`、`会员中心 → https://freedomport.cc/#/dashboard`（会员中心设为 Primary 按钮样式） |
+| **Page actions** | 关闭 "Edit on GitHub"（仓库私有时避免 404），开启 Page ratings 可收集反馈 |
+| **首页封面** | README 页面右上 Page cover 上传一张品牌图（可用主站 hero 太空图，建议 1990×480） |
+
+## 五、日常维护
 
 - 改文档：直接改本目录的 Markdown → commit → push，GitBook 自动同步发布
 - 加页面：新建 md 文件后**记得在 `SUMMARY.md` 里登记**，否则不会出现在目录

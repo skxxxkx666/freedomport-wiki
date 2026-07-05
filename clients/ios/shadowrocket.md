@@ -1,6 +1,10 @@
+---
+description: iOS 备选客户端（付费，需外区 Apple ID），协议支持全、规则灵活。
+---
+
 # 🚀 Shadowrocket for iOS
 
-> **iOS 最流行的代理客户端** | 协议支持全、一键导入方便、规则灵活
+> **备选方案 · 付费应用** | 协议支持全、一键导入方便、规则灵活。首选推荐见 [Clash Mi](clash-mi.md)（免费）。
 
 [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)（俗称"小火箭"）是 iOS / iPadOS 上最常用的代理客户端，支持订阅链接、扫码和 URL Scheme 一键导入。
 

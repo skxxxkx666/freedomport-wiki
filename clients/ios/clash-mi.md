@@ -1,6 +1,10 @@
+---
+description: iOS / iPadOS 推荐客户端，免费、导入快、日常稳定。
+---
+
 # 📱 Clash Mi for iOS / iPadOS
 
-> 🌟 **iOS / iPadOS 推荐客户端** | 订阅导入简单，日常使用稳定
+> 🌟 **iOS / iPadOS 首选推荐 · 免费** | 订阅导入简单，日常使用稳定
 
 Clash Mi 适合 FreedomPort 用户在 iPhone / iPad 上快速完成订阅导入和节点切换，操作路径清晰，适合新手和日常使用。
 

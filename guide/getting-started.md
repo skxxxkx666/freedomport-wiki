@@ -32,9 +32,11 @@
 | --- | --- | --- |
 | 🪟 Windows | [Clash Verge Rev](../clients/windows/clash-verge.md) | [v2rayN](../clients/windows/v2rayn.md) |
 | 🍎 macOS | [Clash Verge Rev](../clients/macos/clash-verge.md) | — |
-| 📱 iOS / iPadOS | [Shadowrocket](../clients/ios/shadowrocket.md) | [Clash Mi](../clients/ios/clash-mi.md) |
+| 📱 iOS / iPadOS | [Clash Mi](../clients/ios/clash-mi.md) | [Shadowrocket](../clients/ios/shadowrocket.md) |
 | 🤖 Android | [Clash Meta for Android](../clients/android/clash-meta.md) | [v2rayNG](../clients/android/v2rayng.md) |
-| 📡 路由器 | [OpenClash 等](../clients/router.md) | — |
+| 📡 路由器 | [OpenClash 等](../clients/others/router.md) | [Linux / Apple TV](../clients/others/README.md) |
+
+全部下载入口见[客户端下载](../download.md)。
 
 3. 客户端里选择节点并开启连接，打开浏览器验证是否可以访问外网
 

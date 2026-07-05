@@ -53,11 +53,11 @@
 
 ### 我该用哪个客户端？
 
-看[快速开始](getting-started.md#第三步导入客户端)的推荐表。简单说：桌面端用 **Clash Verge Rev**，iOS 用 **Shadowrocket**，Android 用 **Clash Meta**。
+看[快速开始](getting-started.md#第三步导入客户端)的推荐表。简单说：桌面端用 **Clash Verge Rev**，iOS 用 **Clash Mi**（免费），Android 用 **Clash Meta**。全部下载入口见[客户端下载](../download.md)。
 
-### Shadowrocket 为什么下载不了？
+### iOS 应用为什么国区下载不了？
 
-它是 App Store **付费应用且国区未上架**，需要美区等外区 Apple ID 购买下载。详见 [Shadowrocket 教程](../clients/ios/shadowrocket.md)。
+此类应用在国区 App Store 未上架，需要外区 Apple ID 下载。[Clash Mi](../clients/ios/clash-mi.md) 免费，登录外区 ID 即可安装；[Shadowrocket](../clients/ios/shadowrocket.md) 为付费备选。
 
 ## 其他
 

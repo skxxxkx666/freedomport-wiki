@@ -1,12 +1,24 @@
+---
+description: iOS / iPadOS 客户端选择与教程入口。
+---
+
 # iOS / iPadOS
 
-iOS 平台的代理客户端需要从 App Store 下载，其中主流选择：
+iOS 平台的代理客户端从 App Store 下载，推荐选择：
 
-| 客户端 | 获取方式 | 适合人群 |
-| --- | --- | --- |
-| [Shadowrocket](shadowrocket.md) ⭐ 推荐 | 付费（约 $2.99），需**外区 Apple ID** | 绝大多数用户，一次购买长期使用 |
-| [Clash Mi](clash-mi.md) | 免费 | 不方便使用外区账号的用户 |
+{% content-ref url="clash-mi.md" %}
+[clash-mi.md](clash-mi.md)
+{% endcontent-ref %}
+
+{% content-ref url="shadowrocket.md" %}
+[shadowrocket.md](shadowrocket.md)
+{% endcontent-ref %}
+
+| 客户端 | 价格 | 获取方式 | 适合人群 |
+| --- | --- | --- | --- |
+| [Clash Mi](clash-mi.md) ⭐ 推荐 | 免费 | App Store | 绝大多数用户，导入快、上手简单 |
+| [Shadowrocket](shadowrocket.md) | 约 $2.99 | App Store（需外区 Apple ID） | 需要更多协议与规则玩法的用户 |
 
 {% hint style="info" %}
-国区 App Store 没有上架此类应用，需要美区等外区 Apple ID。登录外区 ID 下载应用后可以切回国区，应用保留可用。
+此类应用在国区 App Store 未上架，需要外区 Apple ID 下载。登录外区 ID 下载后可切回常用账号，应用保留可用。
 {% endhint %}

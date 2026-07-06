@@ -6,7 +6,7 @@ hero:
   text: 使用手册
   tagline: 从购买到连接，5 分钟完成配置。客户端安装、订阅导入、问题排查，全部在这里。
   image:
-    src: /favicon.svg
+    src: /logo.svg
     alt: FreedomPort
   actions:
     - theme: brand

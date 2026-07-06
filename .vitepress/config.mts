@@ -7,13 +7,13 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
   head: [
-    ['link', { rel: 'icon', href: '/favicon.svg', type: 'image/svg+xml' }],
+    ['link', { rel: 'icon', href: '/logo.svg', type: 'image/svg+xml' }],
     ['meta', { name: 'theme-color', content: '#23545b' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: '自由港机场 · 使用手册' }],
   ],
   themeConfig: {
-    logo: '/favicon.svg',
+    logo: '/logo.svg',
     outline: { label: '本页目录', level: [2, 3] },
     docFooter: { prev: '上一篇', next: '下一篇' },
     lastUpdatedText: '最后更新',

@@ -20,7 +20,7 @@ description: 在 Linux 桌面发行版上使用 Clash Verge Rev 接入自由港�
 | 通用 | `AppImage` | 赋予执行权限后直接运行 |
 
 ::: info
-GitHub 访问缓慢时，可以在下载链接前加镜像前缀 `https://gh.xxooo.cf/`（与 Windows 教程中的镜像加速相同）。
+GitHub 访问缓慢时，可以在下载链接前加镜像前缀 `https://gh.h233.eu.org/`（与 Windows 教程中的测速推荐镜像加速相同，备用前缀 `https://proxy.gitwarp.com/`）。
 :::
 
 ## 配置步骤

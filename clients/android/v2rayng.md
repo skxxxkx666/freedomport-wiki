@@ -26,11 +26,12 @@ description: Android 备选客户端 v2rayNG 教程，支持一键导入与手�
 
 ## 下载与安装
 
-- Android universal（直链）：[下载 APK](https://github.com/2dust/v2rayNG/releases/download/2.0.15/v2rayNG_2.0.15_universal.apk)
-- Android universal（镜像加速）：[下载 APK](https://gh.xxooo.cf/https://github.com/2dust/v2rayNG/releases/download/2.0.15/v2rayNG_2.0.15_universal.apk)
-- 当前参考版本：`2.0.15`
+- Android arm64-v8a（直链）：[下载 APK](https://github.com/2dust/v2rayNG/releases/download/2.2.6/v2rayNG_2.2.6_arm64-v8a.apk)
+- Android arm64-v8a（镜像加速）：[下载 APK](https://gh.h233.eu.org/https://github.com/2dust/v2rayNG/releases/download/2.2.6/v2rayNG_2.2.6_arm64-v8a.apk)
+- 全部版本（GitHub Releases）：[查看全部包](https://github.com/2dust/v2rayNG/releases)
+- 当前参考版本：`2.2.6`（备用镜像前缀：`https://proxy.gitwarp.com/`）
 
-安装步骤：下载 universal.apk 后安装，启动应用并允许 VPN 权限。
+安装步骤：下载 `arm64-v8a.apk`（适配绝大多数现代 Android 设备；较老 32 位设备请前往 Releases 下载 `armeabi-v7a` 包）后安装，启动应用并允许 VPN 权限。
 
 ## 导入订阅
 
@@ -79,4 +80,4 @@ A: 先切换网络（Wi-Fi / 蜂窝），再更新订阅；如仍异常，见[�
 
 ---
 
-> 最后更新：2026 年 3 月 28 日 · 适用版本 v2rayNG 2.0.15
+> 最后更新：2026 年 10 月 4 日 · 适用版本 v2rayNG 2.2.6

@@ -27,10 +27,10 @@ description: Windows 首选客户端 Clash Verge Rev 图文配置教程，五步
 
 ## 下载与安装
 
-- Windows x64（直链）：[下载安装包](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64-setup.exe)
-- Windows ARM64（直链）：[下载安装包](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_arm64-setup.exe)
-- Windows x64（镜像加速）：[下载安装包](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64-setup.exe)
-- 当前参考版本：`v2.4.7`
+- Windows x64（直链）：[下载安装包](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.7/Clash.Verge_2.5.7_x64-setup.exe)
+- Windows ARM64（直链）：[下载安装包](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.7/Clash.Verge_2.5.7_arm64-setup.exe)
+- Windows x64（镜像加速）：[下载安装包](https://gh.h233.eu.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.7/Clash.Verge_2.5.7_x64-setup.exe)
+- 当前参考版本：`v2.5.7`
 
 安装说明：下载 `x64-setup.exe` 后正常安装并首次启动；如遇系统安全提示，选择继续运行。
 
@@ -104,4 +104,4 @@ A: 切换到全局模式，或参考[代理后的隐私保护](../../guide/priva
 
 ---
 
-> 最后更新：2026 年 3 月 28 日 · 适用版本 Clash Verge Rev v2.4.7
+> 最后更新：2026 年 10 月 4 日 · 适用版本 Clash Verge Rev v2.5.7

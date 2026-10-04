@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'zh-CN',
+  srcExclude: ['DESIGN-UPGRADE-PLAN.md'],
   title: '自由港机场 · 使用手册',
   description: '自由港机场（FreedomPort）官方使用手册：客户端下载安装、订阅导入、常见问题排查与服务政策。',
   lastUpdated: true,

@@ -31,7 +31,7 @@ description: Windows 备选客户端 v2rayN 图文配置教程，七步完成从
 
 - Windows x64（直链）：[下载 zip](https://github.com/2dust/v2rayN/releases/download/7.25.4/v2rayN-windows-64.zip)
 - Windows ARM64（直链）：[下载 zip](https://github.com/2dust/v2rayN/releases/download/7.25.4/v2rayN-windows-arm64.zip)
-- 镜像加速：在上述直链前加前缀 `https://gh.h233.eu.org/`（备用前缀 `https://proxy.gitwarp.com/`）
+- 镜像加速：在上述直链前加前缀 `https://proxy.gitwarp.com/`
 - 当前参考版本：`7.25.4`
 
 安装说明：下载 zip 后解压到独立目录（建议 `D:\Apps\v2rayN`），无需安装。

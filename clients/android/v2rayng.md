@@ -27,9 +27,9 @@ description: Android 备选客户端 v2rayNG 教程，支持一键导入与手�
 ## 下载与安装
 
 - Android arm64-v8a（直链）：[下载 APK](https://github.com/2dust/v2rayNG/releases/download/2.2.6/v2rayNG_2.2.6_arm64-v8a.apk)
-- Android arm64-v8a（镜像加速）：[下载 APK](https://gh.h233.eu.org/https://github.com/2dust/v2rayNG/releases/download/2.2.6/v2rayNG_2.2.6_arm64-v8a.apk)
+- Android arm64-v8a（镜像加速）：[下载 APK](https://proxy.gitwarp.com/https://github.com/2dust/v2rayNG/releases/download/2.2.6/v2rayNG_2.2.6_arm64-v8a.apk)
 - 全部版本（GitHub Releases）：[查看全部包](https://github.com/2dust/v2rayNG/releases)
-- 当前参考版本：`2.2.6`（备用镜像前缀：`https://proxy.gitwarp.com/`）
+- 当前参考版本：`2.2.6`
 
 安装步骤：下载 `arm64-v8a.apk`（适配绝大多数现代 Android 设备；较老 32 位设备请前往 Releases 下载 `armeabi-v7a` 包）后安装，启动应用并允许 VPN 权限。
 

@@ -17,10 +17,10 @@ description: macOS 首选客户端 Clash Verge Rev 图文配置教程，含安�
 
 ## 下载与安装
 
-- Apple Silicon（直链）：[下载 dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.7/Clash.Verge_2.5.7_aarch64.dmg)
-- Intel x64（直链）：[下载 dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.7/Clash.Verge_2.5.7_x64.dmg)
-- 镜像加速：在上述直链前加前缀 `https://gh.h233.eu.org/`（备用前缀 `https://proxy.gitwarp.com/`）
-- 当前参考版本：`v2.5.7`
+- Apple Silicon（直链）：[下载 dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_aarch64.dmg)
+- Intel x64（直链）：[下载 dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64.dmg)
+- 镜像加速：在上述直链前加前缀 `https://proxy.gitwarp.com/`
+- 当前参考版本：`v2.5.8`
 
 架构选择：Apple Silicon（M 系列）选 `aarch64` 包，Intel Mac 选 `x64` 包。
 
@@ -96,4 +96,4 @@ description: macOS 首选客户端 Clash Verge Rev 图文配置教程，含安�
 
 ***
 
-> 最后更新：2026 年 10 月 4 日 · 适用版本 Clash Verge Rev v2.5.7
+> 下载链接核验：2026 年 10 月 11 日 · 适用版本 Clash Verge Rev v2.5.8

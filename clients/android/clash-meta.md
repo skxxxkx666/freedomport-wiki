@@ -26,8 +26,8 @@ description: Android 首选客户端 Clash Meta 图文配置教程，从复制�
 ## 下载与安装
 
 - Android universal（直链）：[下载 APK](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.35/cmfa-2.11.35-meta-universal-release.apk)
-- Android universal（镜像加速）：[下载 APK](https://gh.h233.eu.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.35/cmfa-2.11.35-meta-universal-release.apk)
-- 当前参考版本：`v2.11.35`（备用镜像前缀：`https://proxy.gitwarp.com/`）
+- Android universal（镜像加速）：[下载 APK](https://proxy.gitwarp.com/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.35/cmfa-2.11.35-meta-universal-release.apk)
+- 当前参考版本：`v2.11.35`
 
 安装步骤：下载 universal 包后安装 APK，首次启动时允许 VPN 权限即可。
 

@@ -27,15 +27,15 @@
 
 ### Shell 脚本方案
 
-- **ShellClash** - 通用 Shell 脚本
- - [项目地址](https://github.com/juewuy/ShellClash)
+- **ShellCrash** - 通用 Shell 脚本
+ - [项目地址](https://github.com/juewuy/ShellCrash)
  - 兼容性强，支持多种系统
  - 轻量级解决方案
 
 ### Surge 方案
 
 - **Surge Router** - 企业级解决方案
- - [配置教程](https://qust.me/post/MacSurgeRouter/)
+ - [官方手册](https://manual.nssurge.com/)
  - 专业级功能
  - 适合高端用户
 
@@ -48,7 +48,7 @@
 | OpenWrt | OpenClash | 进阶 | 功能最全 |
 | Koolshare | KoolClash | 简单 | 易于配置 |
 | 华硕梅林 | Clash-Merlin | 简单 | 稳定可靠 |
-| 其他系统 | ShellClash | 进阶 | 通用性强 |
+| 其他系统 | ShellCrash | 进阶 | 通用性强 |
 | 企业环境 | Surge | 高级 | 专业级别 |
 
 ---

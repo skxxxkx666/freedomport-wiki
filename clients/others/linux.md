@@ -14,13 +14,12 @@ description: 在 Linux 桌面发行版上使用 Clash Verge Rev 接入自由港�
 
 | 发行版 | 安装包 | 安装命令 |
 | --- | --- | --- |
-| Ubuntu / Debian | `.deb` | `sudo dpkg -i clash-verge_*.deb` |
-| Fedora / openSUSE | `.rpm` | `sudo rpm -i clash-verge_*.rpm` |
+| Ubuntu / Debian | `.deb` | `sudo dpkg -i Clash.Verge_*.deb` |
+| Fedora / openSUSE | `.rpm` | `sudo rpm -i Clash.Verge-*.rpm` |
 | Arch / Manjaro | AUR | `yay -S clash-verge-rev-bin` |
-| 通用 | `AppImage` | 赋予执行权限后直接运行 |
 
 ::: info
-GitHub 访问缓慢时，可以在下载链接前加镜像前缀 `https://gh.h233.eu.org/`（与 Windows 教程中的测速推荐镜像加速相同，备用前缀 `https://proxy.gitwarp.com/`）。
+GitHub 访问缓慢时，可以在下载链接前加镜像前缀 `https://proxy.gitwarp.com/`。
 :::
 
 ## 配置步骤
